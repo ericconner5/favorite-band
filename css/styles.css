@@ -1,0 +1,45 @@
+.sidebar {
+  float: right;
+  padding: 35px;
+  background-color: purple;
+  color: red;
+  text-align: center;
+  border: 4px solid green;
+
+}
+
+.cities {
+  color: black;
+  text-align: center;
+}
+
+ .main {
+  font-weight: bolder;
+  font-family: monospace;
+  text-indent: 50px;
+}
+
+.secondary {
+  font-weight: bolder;
+  font-family: fantasy;
+  text-indent: 50px;
+  font-size: 110%;
+}
+
+h1 {
+  text-align: center;>
+}
+
+img {
+  float: left;
+  margin: 12px;
+  padding: 0px;
+  border: 2px solid black;
+}
+
+.banner {
+  padding: 0px;
+  width: 100%;
+  border: 2px solid black;
+  margin: 0px;
+}
